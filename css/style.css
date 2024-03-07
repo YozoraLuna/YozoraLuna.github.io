@@ -1,6 +1,7 @@
 body{
     background: rgb(140,133,19);
     background: linear-gradient(90deg, rgba(140,133,19,1) 0%, rgba(184,163,38,1) 50%);
+    overflow: hidden;
 }
 .all{
     width: 100%;
